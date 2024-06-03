@@ -1,4 +1,5 @@
 HomeAway is a website for to list the hotels of different cities globally so that it can easily accessible to your vacation place. The goal of the online travel platform HomeAway is to make it easier for visitors to identify and reserve a place to stay during travels and vacations by connecting them with a wide variety of lodging options across the globe. Both property owners and travellers may have a seamless and safe experience with the platform thanks to its user-friendly interface and strong backend technology.
+The frontend was developed using JavaScript and Bootstrap and the backend utilizes NoSQL database technology (MongoDB). To ensure security, authentication methods such as salt, password hashing were implemented.
 
 Technology Stack: 
 1. JavaScript: Utilized for dynamic content manipulation, form validation, and creating interactive elements on the website. 
