@@ -1,0 +1,18 @@
+HomeAway is a website for to list the hotels of different cities globally so that it can easily accessible to your vacation place. The goal of the online travel platform HomeAway is to make it easier for visitors to identify and reserve a place to stay during travels and vacations by connecting them with a wide variety of lodging options across the globe. Both property owners and travellers may have a seamless and safe experience with the platform thanks to its user-friendly interface and strong backend technology.
+
+Technology Stack: 
+1. JavaScript: Utilized for dynamic content manipulation, form validation, and creating interactive elements on the website. 
+2. Bootstrap: A popular front-end framework used for designing responsive and visually appealing web pages. Bootstrap provides pre-designed templates and components, such as forms, buttons, navigation, and modals, ensuring the site is mobile-friendly and consistent across different devices and screen sizes. 
+3. NoSQL Database (MongoDB): MongoDB is used for its flexibility in handling large volumes of unstructured data. It efficiently manages property details, user information, bookings, and reviews. 
+4. Node.js and Express.js: Server-side JavaScript environment and framework for building the backend logic, handling requests, and serving responses.
+
+Features:
+
+1. Search and Filter: Users can search for accommodations based on various criteria such as location, price range, amenities, and dates of stay.
+2. Interactive Maps: Integration with map services to display property locations, helping users visualize proximity to landmarks, attractions, and public transport.
+3. Property Listings: Detailed listings with high-quality images, descriptions, amenities, pricing, and availability calendar.
+4. Reviews and Ratings: User-generated reviews and ratings provide insights into previous guests' experiences, helping users make informed decisions.
+5.User Authentication and Authorization: Salt and Password Hashing: Implemented to enhance security by storing passwords in a hashed format with added salt, making it difficult for attackers to reverse-engineer the original passwords. JWT (JSON Web Tokens): Used for secure user sessions and API authentication, ensuring that only authenticated users can access certain features.
+6. Data Management: Efficient handling of CRUD (Create, Read, Update, Delete) operations for user profiles, property listings, bookings, and reviews.
+
+Using cutting-edge online technology, HomeAway offers a safe, effective, and easy-to-use platform for searching and reserving vacation rentals. Through the integration of a scalable and secure backend with a dynamic frontend, HomeAway guarantees a superior experience for both property owners and guests.
